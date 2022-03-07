@@ -1,4 +1,4 @@
-module atm-available
+module atm_available
 
 go 1.17
 
